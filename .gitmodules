@@ -1,0 +1,4 @@
+[submodule "cyberneel/public"]
+	path = cyberneel/public
+	url = https://github.com/cyberneel/cyberneel.github.io.git
+	branch = main

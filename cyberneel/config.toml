@@ -1,5 +1,5 @@
 # default config
-baseurl = ""
+baseurl = "https://cyberneel.github.io/"
 
 languageCode = "en-us"
 title = "cyberneel"

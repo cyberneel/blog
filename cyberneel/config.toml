@@ -96,7 +96,7 @@ mobile = "+1 304 459 5426"
 email = "cyberneel1110@gmail.com"
 address = "contact via email for address"
 # Contact Form Action
-contact_form_action = "#"
+contact_form_action = "https://docs.google.com/forms/d/e/1FAIpQLSdJBV-H0cxWVb0eszCIv1V9o7z4NyIc1VPyEmTYEvkrMENHhQ/formResponse"
 # copyright
 copyright = "Copyright &copy; 2023 by [cyberneel](https://www.instagram.com/cyberneel_hacked/)"
 

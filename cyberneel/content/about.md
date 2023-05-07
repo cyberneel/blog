@@ -2,7 +2,7 @@
 title: "About"
 date: 2023-05-02
 description: "This is meta description"
-image: "images/author.jpg"
+image: "images/authorCyberNeel.png"
 ---
 
 ### Hello, I’m **Neelesh Chevuri**

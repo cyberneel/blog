@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "This is meta description"
+description: "Contact me!"
 image: "images/contact.jpg"
 layout: "contact"
 ---

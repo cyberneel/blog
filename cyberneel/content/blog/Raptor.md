@@ -1,7 +1,7 @@
 ---
 title: "Milk"
 date: 2021-08-03
-description: "This is meta description"
+description: "A Raptor Sculpted and Rendered in Blender"
 type: "post"
 image: "images/masonary-post/Raptor.png"
 categories: 

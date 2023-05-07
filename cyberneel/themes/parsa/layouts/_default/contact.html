@@ -7,13 +7,10 @@
         <h2 class="mb-4">{{.Title }}</h2>
         <img src="{{.Params.Image | absURL }}" alt="{{site.Params.author}}" class="img-fluid w-100 mb-4">
         {{ .Content }}
-        js
-<script type="text/javascript">var submitted=false;</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
-onload="if(submitted) {window.location='/thankyou';}"></iframe>
-
-
-
+        
+        <script type="text/javascript">var submitted=false;</script>
+        <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='/thankyou';}"></iframe>
+        
         <form action="{{ site.Params.contact_form_action }}" class="row mt-5" method="POST" target="hidden_iframe" onsubmit="submitted=true">
           <div class="col-lg-6">
             <input type="text" class="form-control mb-4" name="entry.1511365088" id="name" placeholder="Name">

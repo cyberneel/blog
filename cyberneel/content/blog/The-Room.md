@@ -1,7 +1,7 @@
 ---
 title: "The Room"
 date: 2020-08-12
-description: "This is meta description"
+description: "A Low Poly Room Rendered in Blender"
 type: "post"
 image: "images/masonary-post/TheRoom.png"
 categories: 

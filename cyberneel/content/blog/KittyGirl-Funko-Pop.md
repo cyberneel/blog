@@ -1,7 +1,7 @@
 ---
 title: "Kitty Girl Funko Pop"
 date: 2022-08-03
-description: "This is meta description"
+description: "A Funko Pop Rendered in Blender and edited in Photoshop"
 type: "post"
 image: "images/masonary-post/KittyGirlFunkoPop.png"
 categories: 

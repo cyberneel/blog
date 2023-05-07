@@ -1,7 +1,7 @@
 ---
 title: "Sci-Fi Orb Drone"
 date: 2021-05-01
-description: "This is meta description"
+description: "A Aci-Fi Orb Drone Rendered in Blender"
 type: "post"
 image: "images/masonary-post/SciFiOrbHardSurface.png"
 categories: 

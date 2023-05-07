@@ -1,7 +1,7 @@
 ---
 title: "Milk"
 date: 2020-08-12
-description: "This is meta description"
+description: "A Low Milk Carton Room Rendered in Blender"
 type: "post"
 image: "images/masonary-post/Milk.png"
 categories: 

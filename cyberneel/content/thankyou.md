@@ -1,6 +1,6 @@
 ---
 title: "Thank You!"
-description: "This is meta description"
+description: "Thank you!"
 image: ""
 ---
 Thank you for your response!

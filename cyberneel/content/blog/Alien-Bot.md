@@ -1,7 +1,7 @@
 ---
 title: "Alien Bot"
 date: 2021-02-08
-description: "This is meta description"
+description: "An Alien Bot Sculpted and Rendered in Blender"
 type: "post"
 image: "images/masonary-post/AlienBot.png"
 categories: 

@@ -1,6 +1,5 @@
 # default config
 baseurl = "https://cyberneel.github.io/"
-favicon = "images/favicon.png"
 languageCode = "en-us"
 title = "cyberneel"
 theme = "parsa"

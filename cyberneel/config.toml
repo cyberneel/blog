@@ -87,7 +87,7 @@ preloader = true
 # search
 search = true
 # about author
-author = "Neelesh Chevuri"
+author = "Neelesh"
 author_image = "images/CyberNeelLogoNewOutfitTransparent.png"
 bio = "I'm a passionate programmer who loves to create new things."
 # Contact info

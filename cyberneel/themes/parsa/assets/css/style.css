@@ -107,16 +107,19 @@ h6,
 
 .btn-primary {
   background: #ff6f00;
+  background: #ff3434;
   color: #fff;
   border: 0;
 }
 
 .btn-primary:active {
   background: #ff6f00 !important;
+  background: #ff3434 !important;
 }
 
 .btn-primary:hover {
   background: #ff8c33;
+  background: #ff6a6a;
 }
 
 .btn-outline-light {

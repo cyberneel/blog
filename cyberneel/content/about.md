@@ -5,7 +5,7 @@ description: "This is meta description"
 image: "images/authorCyberNeel.png"
 ---
 
-### Hello, I’m **Neelesh Chevuri**
+### Hello, I’m **Neelesh**
 
 A passionate programmer who loves to create new things. I love the amazing world of technology and
 in this blog I will share with you my findings and projects. You can expect game development,

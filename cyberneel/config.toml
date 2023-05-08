@@ -92,8 +92,8 @@ author_image = "images/CyberNeelLogoNewOutfitTransparent.png"
 bio = "I'm a passionate programmer who loves to create new things."
 # Contact info
 mobile = "+1 304 459 5426"
-email = "cyberneel1110@gmail.com"
-address = "contact via email for address"
+# email = "cyberneel1110@gmail.com"
+address = "Use contact form for address"
 # Contact Form Action
 contact_form_action = "https://docs.google.com/forms/d/e/1FAIpQLSdJBV-H0cxWVb0eszCIv1V9o7z4NyIc1VPyEmTYEvkrMENHhQ/formResponse"
 # copyright

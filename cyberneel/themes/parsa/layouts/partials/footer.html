@@ -23,6 +23,7 @@
             {{ if .Site.Params.email }}           
             <li class="font-secondary text-dark">Email : {{ .Site.Params.email | markdownify }}</li>
             {{ end }}
+            <li class="font-secondary text-dark"><a href="{{ `contact/` | absURL }}">Contact Form</a></li>
           </ul>
           {{ end }}
         </div>

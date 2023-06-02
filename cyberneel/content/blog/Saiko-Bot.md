@@ -1,6 +1,6 @@
 ---
 title: "Saiko Bot"
-date: 2023-06-2
+date: 2023-06-02
 description: "A digital render that received a Gold Seal at the state VASE event"
 type: "post"
 image: "images/masonary-post/SaikoBotPOST.png"

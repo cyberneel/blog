@@ -1,7 +1,7 @@
 ---
 title: "Saiko Bot"
 date: 2023-06-02
-description: "A digital render that received a Gold Seal at the state VASE event"
+description: "A bot bust sculpted in ZBrush and rendered in Blender"
 type: "post"
 image: "images/masonary-post/SaikoBotPOST.png"
 categories: 
